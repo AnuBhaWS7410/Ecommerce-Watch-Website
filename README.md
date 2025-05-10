@@ -17,5 +17,15 @@ This project is a watch company website showcasing luxury timepieces from brands
 - **Fonts**: The "Poppins" font family, sourced from Google Fonts, provides a clean, modern design.
 - **Font Awesome**: Social media icons from the Font Awesome library.
 
-## File Structure
+- 
+## Setup Instructions
+
+### 1. Clone the repository:
+
+```bash
+git clone https://github.com/AnuBhaWS7410/Ecommerce-Watch-Website.git
+cd Ecommerce-Watch-Website
+
+
+
 
